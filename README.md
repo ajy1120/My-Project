@@ -1,1 +1,1 @@
-# upbit_auto_trade
+# My project
